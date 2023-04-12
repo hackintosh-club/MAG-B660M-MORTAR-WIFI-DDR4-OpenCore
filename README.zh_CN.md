@@ -2,7 +2,7 @@
 
 ![image](ScreenShot/Motherboard.png)
 
-### [English](https://github.com/hackintosh-efi/MAG-B365M-MORTAR-OpenCore)
+### [English](https://github.com/hackintosh-efi/MAG-B660M-MORTAR-WIFI-DDR4-OpenCore)
 
 ### OpenCore
 
