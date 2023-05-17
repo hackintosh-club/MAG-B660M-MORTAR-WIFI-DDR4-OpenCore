@@ -1,6 +1,7 @@
 # MSI-MAG-B660M-MORTAR-WIFI-DDR4  黑苹果 OpenCore EFI
 
 ![image](ScreenShot/Motherboard.png)
+![image](ScreenShot/QRcode.png)
 
 ### [English](https://github.com/hackintosh-efi/MAG-B660M-MORTAR-WIFI-DDR4-OpenCore)
 
