@@ -15,8 +15,8 @@
 
 ### Hardware
 
-- Motherboard:MSI-MAG-B660M-MORTAR-WIFI-DDR4
-- Bios Version: 7D42v1A（2023-01-11）
+- Motherboard: [MSI-MAG-B660M-MORTAR-WIFI-DDR4](https://www.msi.com/Motherboard/MAG-B660M-MORTAR-WIFI-DDR4)
+- Bios Version: 7D42v1B（2023-03-30)
 - CPU: Intel i5-13400
 - RAM: KingBank 2x16GB DDR4 3600MHz
 - SSD: ZHITAI Ti7100Plus 1TB Windows
@@ -33,8 +33,11 @@
 
 ### Bios Setup
 
-| Name | Option |
-| ----- | --- |
+| Name        | Option   |
+|-------------|----------|
+| Secure Boot | Disabled |
+| CFG Lock    | Disabled |
+| Fast Boot   | Disabled |
 
 
 ### Notes
