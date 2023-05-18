@@ -56,4 +56,4 @@
 
 - 联系我们
 
-![image](QRCode.png)
+![image](ScreenShot/QRCode.png)
