@@ -53,3 +53,7 @@
 - Geekbench5 跑分 OpenCL 迪兰 RX5600XT 6GB 战神
 
 ![image](ScreenShot/opencl.png)
+
+- 联系我们
+
+![image](QRCode.png)

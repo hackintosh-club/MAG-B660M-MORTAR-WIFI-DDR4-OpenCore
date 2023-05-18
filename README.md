@@ -58,3 +58,7 @@
 - Geekbench5 Score OpenCL DATALAND Radeon RX 5600 XT 6GB X-Serial War
 
 ![image](ScreenShot/opencl.png)
+
+- Contact Us
+
+![image](QRCode.png)
