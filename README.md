@@ -1,4 +1,4 @@
-# MSI-MAG-B660M-MORTAR-WIFI-DDR4 Hackintosh OpenCore EFI
+# [MSI-MAG-B660M-MORTAR-WIFI-DDR4](https://www.msi.com/Motherboard/MAG-B660M-MORTAR-WIFI-DDR4) Hackintosh OpenCore EFI
 
 ![image](ScreenShot/Motherboard.png)
 
@@ -11,11 +11,11 @@
 ### OS Version Tested
 
 - macOS Monterey 12.x
-- macOS Ventura  13.x 
+- macOS Ventura 13.x
 
 ### Hardware
 
-- Motherboard: [MSI-MAG-B660M-MORTAR-WIFI-DDR4](https://www.msi.com/Motherboard/MAG-B660M-MORTAR-WIFI-DDR4)
+- Motherboard: MSI-MAG-B660M-MORTAR-WIFI-DDR4
 - Bios Version: 7D42v1B（2023-03-30)
 - CPU: Intel i5-13400
 - RAM: KingBank 2x16GB DDR4 3600MHz
@@ -30,7 +30,6 @@
 - PSU: COOLERMASTER GX650W 80Plus Gold
 - CASE:Jonsbo D31
 
-
 ### Bios Setup
 
 | Name        | Option   |
@@ -39,15 +38,13 @@
 | CFG Lock    | Disabled |
 | Fast Boot   | Disabled |
 
-
 ### Notes
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
- 
-### ScreenShot 
+- Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
 
+### ScreenShot
 
-- Geekbench5 Score i5-13400 
+- Geekbench5 Score i5-13400
 
 ![image](ScreenShot/Geekbench5.png)
 
@@ -61,6 +58,6 @@
 
 ### Contact Us
 
- - QQ Group: 23304408
+- QQ Group: 23304408
 
 ![image](ScreenShot/QRCode.png)

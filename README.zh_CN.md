@@ -1,7 +1,6 @@
-# MSI-MAG-B660M-MORTAR-WIFI-DDR4  黑苹果 OpenCore EFI
+# [MSI-MAG-B660M-MORTAR-WIFI-DDR4](https://www.msi.com/Motherboard/MAG-B660M-MORTAR-WIFI-DDR4)  黑苹果 OpenCore EFI
 
 ![image](ScreenShot/Motherboard.png)
-
 
 ### [English](https://github.com/hackintosh-efi/MAG-B660M-MORTAR-WIFI-DDR4-OpenCore)
 
@@ -11,8 +10,8 @@
 
 ### 可安装系统
 
-- macOS Monterey 12.x 
-- macOS Ventura  13.x 
+- macOS Monterey 12.x
+- macOS Ventura 13.x
 
 ### 硬件
 
@@ -32,17 +31,19 @@
 
 ### Bios 设置
 
-| 名称 | 选项 |
-| ----- | --- |
+| Name        | Option |
+|-------------|--------|
+| Secure Boot | 关闭     |
+| CFG Lock    | 关闭     |
+| Fast Boot   | 关闭     |
 
 ### 注意事项
 
- - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
- 
- 
+- 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
+
 ### 系统截图
 
-- Geekbench5 跑分 i5-13400 
+- Geekbench5 跑分 i5-13400
 
 ![image](ScreenShot/Geekbench5.png)
 
@@ -56,6 +57,6 @@
 
 ### 联系我们
 
- - QQ群: 23304408
+- QQ群: 23304408
 
 ![image](ScreenShot/QRCode.png)
