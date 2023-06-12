@@ -6,12 +6,11 @@
 
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.3](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
-- macOS Monterey 12.x
-- macOS Ventura 13.x
+- macOS Ventura 13.4
 
 ### Hardware
 
