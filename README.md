@@ -15,7 +15,7 @@
 ### Hardware
 
 - Motherboard: MSI-MAG-B660M-MORTAR-WIFI-DDR4
-- Bios Version: 7D42v1B（2023-03-30)
+- Bios Version: 7D42v1C（2023-06-04)
 - CPU: Intel i5-13400
 - RAM: KingBank 2x16GB DDR4 3600MHz
 - SSD: ZHITAI Ti7100Plus 1TB Windows
