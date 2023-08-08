@@ -10,7 +10,7 @@
 
 ### OS Version Tested
 
-- macOS Ventura 13.4.1
+- macOS Ventura 13.5
 
 ### Hardware
 
