@@ -4,7 +4,6 @@
 
 ### [简体中文](https://github.com/hackintosh-efi/MAG-B660M-MORTAR-WIFI-DDR4-OpenCore)
 
-### OpenCore
 
 [OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
 
