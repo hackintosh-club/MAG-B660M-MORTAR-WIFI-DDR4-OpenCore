@@ -4,13 +4,11 @@
 
 ### [English](README.EN.md)
 
-
-[OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
-- macOS Monterey 12.x
-- macOS Ventura 13.x
+- macOS Ventura 13.6
 
 ### 硬件
 

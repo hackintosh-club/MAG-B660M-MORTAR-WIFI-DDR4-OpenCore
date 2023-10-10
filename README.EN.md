@@ -5,11 +5,11 @@
 ### [简体中文](https://github.com/hackintosh-efi/MAG-B660M-MORTAR-WIFI-DDR4-OpenCore)
 
 
-[OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
-- macOS Ventura 13.5
+- macOS Ventura 13.6
 
 ### Hardware
 
