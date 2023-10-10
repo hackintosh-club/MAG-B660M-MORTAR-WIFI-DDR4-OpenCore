@@ -9,6 +9,7 @@
 ### 可安装系统
 
 - macOS Ventura 13.6
+- macOS Monterey 12.x
 
 ### 硬件
 

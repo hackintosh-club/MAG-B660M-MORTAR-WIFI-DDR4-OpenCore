@@ -10,6 +10,7 @@
 ### OS Version Tested
 
 - macOS Ventura 13.6
+- macOS Monterey 12.x
 
 ### Hardware
 
