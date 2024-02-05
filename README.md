@@ -4,7 +4,7 @@
 
 ### [English](README.EN.md)
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.8](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
