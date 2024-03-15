@@ -4,12 +4,12 @@
 
 ### [简体中文](https://github.com/hackintosh-efi/MAG-B660M-MORTAR-WIFI-DDR4-OpenCore)
 
-
-[OpenCore 0.9.8](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
-- macOS Ventura 13.6
+- macOS Sonoma   14.x
+- macOS Ventura    13.x
 - macOS Monterey 12.x
 
 ### Hardware
@@ -39,7 +39,10 @@
 
 ### Notes
 
-- Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
+- Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
+- If you want to use a CPU without  Efficient-Core, you must uncheck the option in the config.plist file Kernel--ProvideCurrentCpuinfo
+- Intel WiFi driver [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases) in this EFI is only applicable to MacOS 13 Ventura. Please download and replace this driver yourself when installing other MacOS versions
+- Intel WiFi Not Supported  Airdrop
 
 ### ScreenShot
 
