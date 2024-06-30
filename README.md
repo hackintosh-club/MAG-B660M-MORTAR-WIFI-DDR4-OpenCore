@@ -12,7 +12,7 @@
 - macOS Ventura    13.x
 - macOS Monterey 12.x
 
-### 硬件
+### 硬件配置一
 
 - 主板: MSI-MAG-B660M-MORTAR-WIFI-DDR4
 - Bios版本: Version: 7D42v1A（2023-01-11）
@@ -27,6 +27,22 @@
 - 显示器: 盛色 SANC G7c 2k 27寸 165hz
 - 电源: 酷冷至尊 GX650W 80Plus 金牌全模组
 - 机箱: 乔思伯 D31
+
+### 硬件配置二
+
+| 配置        | 型号                                                         |
+| ----------- | ------------------------------------------------------------ |
+| CPU         | 英特尔 12th Gen Intel Core i7-12700                          |
+| 主板        | 微星 MSI MAG B660M MORTAR WiFi DDR4                          |
+| 显卡        | AMD Radeon RX6600 Series ( 8 GB / 华硕DUAL雪豹 )             |
+| 内存        | 64GB ( 海盗船复仇者 DDR4 3200MHz 16GB x 2  + 金士顿野兽 DDR4 3200MHz 16GB x 2) |
+| SSD         | 西数 WDS100T1X0E-00AFY0 (黑盘 SN850) (固态硬盘) 1TB --MacOS14.5 |
+|             | 西数 WD_BLACK SN770 500GB (固态硬盘) --Windows11             |
+| 机箱        | 九州风神 玄冰40 3F                                           |
+| 电源        | 鑫谷 AN750 750W                                              |
+| CPU 风扇    | 利民 PA120 SE 塔式                                           |
+| WiFi + 蓝牙 | 英特尔 Wi-Fi 6E AX211 160MHz                                 |
+| 声卡        | 瑞昱  @ 英特尔 High Definition Audio 控制器                  |
 
 ### Bios 设置
 
@@ -57,6 +73,10 @@
 
 ### 系统截图
 
+- OC引导
+
+  ![](ScreenShot/12700-rx6600/open-core-main.png)
+
 - Geekbench5 跑分 i5-13400
 
 ![image](ScreenShot/Geekbench5.png)
@@ -68,6 +88,29 @@
 - Geekbench5 跑分 OpenCL 迪兰 RX5600XT 6GB 战神
 
 ![image](ScreenShot/opencl.png)
+
+
+
+> Geekbench6 Score: i7-12700 RX5600
+
+* Geekbench 6 CPU Benchmark Result :  intel 12700
+
+![image](ScreenShot/12700-rx6600/geekbench6-results.png)
+
+* Single-Core Comparison: intel 12700
+
+![image](ScreenShot/12700-rx6600/geekbench6-core-singgle.png)
+
+* Multi-Core Comparison: intel 12700
+
+![image](ScreenShot/12700-rx6600/geekbench6-core-multi.png)
+
+* GPU Compute Comparison: AMD RX6600
+
+![image](ScreenShot/12700-rx6600/geekbench6-gpu.png)
+
+
+
 
 ### 联系我们
 
