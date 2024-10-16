@@ -4,11 +4,12 @@
 
 ### [English](README.EN.md)
 
-[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
-- macOS Sonoma   14.x
+- macOS Sequoia   15.x  **(英特尔 WiFi 必须使用 [OCLP](https://github.com/hackintosh-club/intel-nuc10/releases/tag/oclp) 补丁)**   **(博通 WiFi 必须使用 [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) 补丁)** 
+- macOS Sonoma   14.x **(博通 WiFi 必须使用 [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) 补丁)** 
 - macOS Ventura    13.x
 - macOS Monterey 12.x
 

@@ -4,13 +4,14 @@
 
 ### [简体中文](https://github.com/hackintosh-efi/MAG-B660M-MORTAR-WIFI-DDR4-OpenCore)
 
-[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
-- macOS Sonoma   14.x
-- macOS Ventura    13.x
-- macOS Monterey 12.x
+- macOS Sequoia    15.x  **(Intel WiFi Need [OCLP](https://github.com/hackintosh-club/intel-nuc10/releases/tag/oclp) Patch)**   **(Broadcom WiFi Need [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) Patch)** 
+- macOS Sonoma    14.x  **(Broadcom WiFi Need [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) Patch)** 
+- macOS Ventura     13.x
+- macOS Monterey  12.x
 
 ### Hardware
 
