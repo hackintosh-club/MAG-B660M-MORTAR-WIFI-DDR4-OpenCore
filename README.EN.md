@@ -8,7 +8,7 @@
 
 ### OS Version Tested
 
-- macOS Sequoia    15.x  **(Intel WiFi Need [OCLP](https://github.com/hackintosh-club/intel-nuc10/releases/tag/oclp) Patch)**   **(Broadcom WiFi Need [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) Patch)** 
+- macOS Sequoia    15.x  **(Intel WiFi Need [OCLP](href="https://github.com/goodbest/HaC-Mini/releases/download/v2.9.1/OpenCore-Patcher166.pkg.zip) Patch)**   **(Broadcom WiFi Need [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) Patch)** 
 - macOS Sonoma    14.x  **(Broadcom WiFi Need [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) Patch)** 
 - macOS Ventura     13.x
 - macOS Monterey  12.x
